@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/musicaQuev.mp3-6a1e9e5c37018882036d401de80d5797.mp3str"
+
+[deps]
+
+source_file="res://assets/musicaQuev.mp3"
+dest_files=[ "res://.import/musicaQuev.mp3-6a1e9e5c37018882036d401de80d5797.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

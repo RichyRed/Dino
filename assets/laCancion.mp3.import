@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/laCancion.mp3-d717f8daf4eacc4205450a9cf982bfb6.mp3str"
+
+[deps]
+
+source_file="res://assets/laCancion.mp3"
+dest_files=[ "res://.import/laCancion.mp3-d717f8daf4eacc4205450a9cf982bfb6.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
