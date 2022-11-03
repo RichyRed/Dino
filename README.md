@@ -15,7 +15,7 @@ entre *A**W**S**D* o tambien con las teclas de control y el juego inicia.
 En caso de chocar con un arbolito :cactus: pierde el juego y le aparecera el texto de *PERDISTE* y opciones para volver a comenzar
 
 EJECUTABLE DEL JUEGO:
-https://drive.google.com/file/d/1AqWbqRywbPSw6swOm1TmIhwHam2uklAj/view?usp=sharing
+https://drive.google.com/file/d/1Csp66CuweYzqS_WwcOMhCRXtxc1Lf3qk/view?usp=sharing
 
 En el caso de que el archivo .exe no funcione se recomienda descargar GODOT version 3.5 y clonar el proyecto de este repositorio, al terminar presionar en el botón siguiente ![ejecutable](https://user-images.githubusercontent.com/80707476/197037699-11769b67-738e-4e29-a3b2-c00bb876a470.png) 
 que se encuentra en la parte superior derecha de la pantalla principal de GODOT.
